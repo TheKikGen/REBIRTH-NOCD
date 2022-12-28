@@ -10,7 +10,7 @@ With this small non intrusive patch, you do not need anymore to launch the cd im
 4/ Use rblaunch.bat to launch RB-338 without cd check.
 5/ Do not use compatibility mode for all windows versions (uncheck the compatibility checkbox in files properties)
 
-Note, that the Windows Help format used by Rebirth is not supported anymore. When you install and use Rebirth for the first time,   
+Note, that the Windows Help format used by Rebirth is not supported anymore. When you install and use Rebirth for the first time,
 an Help window is shown, and the application crashes. The patch takes care of that and applying it will not show the help window.
 Tested and working on Windows 11.
 
