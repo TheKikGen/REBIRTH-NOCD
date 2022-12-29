@@ -1,16 +1,22 @@
-405171,0F,90  
+# Rebirth 2.01 NO CD patch by The Kikgen
+# Use it with PatchLauncher.
+# All values are hexadecimal.
+#
+405171,0F,90
 405172,85,90
 405173,97,90
 405174,00,90
 405175,00,90
 405176,00,90
-481BE5:FF,90
-481BE6:52,90
-481BE7:70,90
+481BE5,FF,90
+481BE6,52,90
+481BE7,70,90
+# Check if drive is a CD ROM N1
 485B5A,FF,B8
 485B5B,92,05
 485B5C,94,00
 485B5F,00,90
+# Check if drive is a CD ROM N2
 486061,FF,B8
 486062,92,05
 486063,94,00
