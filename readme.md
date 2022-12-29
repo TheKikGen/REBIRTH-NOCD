@@ -24,4 +24,6 @@ Tested and working on Windows 11.
 
 Thanks to Propellerhead Software to made this a freeware.
 
+You can download it here : https://archive.org/download/rebirthrb338forwin7810/Rebirth338forWindows78.10.7z
+
 Have fun !
