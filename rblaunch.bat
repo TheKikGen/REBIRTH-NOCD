@@ -1,1 +1,1 @@
-launch Rebirth.exe nocd.patch.csv
+PatchLauncher32 Rebirth.exe nocd.patch.csv
