@@ -10,7 +10,7 @@ With this small non intrusive patch, you do not need anymore to launch the cd im
 
 1/ Mount the RB-338 CD image and install Rebirth RB-338 2.01 on your computer 
 
-2/ Copy RB20FUL.DAT & RB20UPD.DAT from the CD root to the root of a fixed hardisk or a usb key that will be permanently available
+2/ Copy RB20FUL.DAT & RB20UPD.DAT from the CD root to the Rebirth directory
 
 3/ Copy all files from this project to the "x:\Rebirth RB-338" install directory (x being your disk drive letter)
 
